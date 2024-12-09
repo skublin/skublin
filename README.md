@@ -4,10 +4,10 @@
 **skublin/skublin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on text-based game with randomly generated parts (e.g. dungeons).
-- 🌱 I’m currently learning databases, statistics, and low-level programming.
-- 👯 I’m looking to collaborate on cool projects.
-- 🤔 I’m looking for help with Data Engineering path.
-- 💬 Ask me about anything you want.
-- 📫 How to reach me: via e-mail - [szymonkublin@gmail.com](mailto:szymonkublin@gmail.com).
-- ⚡ Fun fact: plants, chess, books and sports lover.
+🔭 I’m currently working on a volleyball analytics project — [check it out](https://vbmetrics.com/)!  
+🌱 I’m currently learning ML, Data Engineering, and low-level programming.  
+👯 I’m looking to collaborate on interesting data-related projects.  
+🤔 I’m seeking opportunities in the field of Data Engineering.  
+💬 Feel free to ask me anything you’d like.  
+📫 How to reach me: via email at [szymonkublin@gmail.com](mailto:szymonkublin@gmail.com).  
+⚡ Fun fact: I’m a lover of plants, chess, books, and sports (especially volleyball).
