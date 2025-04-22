@@ -1,13 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**skublin/skublin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a **software engineer** with a strong focus on **data analysis** and **data engineering**.  
 
-🔭 I’m currently working on [flowtracker.dev](https://flowtracker.dev/), and [vbmetrics.com](https://vbmetrics.com/)!  
-🌱 I’m currently learning ML, Data Engineering, and low-level programming.  
-👯 I’m looking to collaborate on interesting data-related projects.  
-🤔 I’m seeking opportunities in the field of Data Engineering.  
-💬 Feel free to ask me anything you’d like.  
-📫 How to reach me: via email at [szymonkublin@gmail.com](mailto:szymonkublin@gmail.com).  
-⚡ Fun fact: I’m a lover of plants, chess, books, and sports (especially volleyball).
+I love exploring data, building pipelines, designing systems, and turning raw information into meaningful insights — with a touch of storytelling 🧠✨
+
+## 🔧 What I'm up to
+
+- 🚀 Working on [flowtracker.dev](https://flowtracker.dev) and [vbmetrics](https://github.com/vbmetrics).
+- 🧠 Learning more about **Machine Learning**, **low-level programming**, and effective communication.
+- 🤝 Looking to collaborate on **data-focused projects**
+- 🎤 Occasionally hanging out at tech events.
+
+## 🛠️ Tech & Tools
+
+**Languages:**  
+Python, SQL, TypeScript, Magik, Java  
+
+**Data & BI:**  
+MSSQL, PostgreSQL, SQLite, Power BI, Tableau, Excel (w/ VBA)  
+
+**Cloud & DevOps:**  
+GCP, AWS, Docker, Unix, Bash, Git  
+
+**Data Engineering & ML:**  
+ETL, Data Pipelines, System Design, Machine Learning, Deep Learning  
+
+**Soft Skills:**  
+Storytelling, Agile, Critical Thinking, Communication
+
+## 📫 Let's connect!
+
+- 🌐 [skublin.me](https://skublin.me)
